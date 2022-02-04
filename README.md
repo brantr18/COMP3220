@@ -1,2 +1,2 @@
 # COMP3220
-Projects I do in my COMP3220 class.
+Projects for my principals of programming languages class.
