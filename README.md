@@ -1,2 +1,2 @@
 # COMP3220
-Projects for my principals of programming languages class.
+Projects for my principles of programming languages class.
